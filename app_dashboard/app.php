@@ -25,10 +25,10 @@ class Dashboard
 
 //classe conexao com o BD
 class Conexao {
-    private $host = 'localhost';
-    private $dbname = 'dashboard';
-    private $user = 'root';
-    private $password = '';
+    private $host = 'host';
+    private $dbname = 'dbname';
+    private $user = 'user';
+    private $password = 'password';
 
     public function conectar() {
         try {
