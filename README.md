@@ -19,5 +19,7 @@ Consolidando conhecimentos em JQuery e PHP, assim como começando a utilizar aja
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+![Screenshot 2024-04-08 221835](https://github.com/duduMiyake/App_controle_vendas/assets/90785757/04934c95-d0dc-4bc8-a33c-bbebe555dcf0)
+
+![Screenshot 2024-04-08 221924](https://github.com/duduMiyake/App_controle_vendas/assets/90785757/d5eef443-367b-42bf-b874-13aaae5d31e3)
 
